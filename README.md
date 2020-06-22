@@ -5,7 +5,7 @@ Demo: https://devat-youtuber.github.io/slideshow-in-react/
 
 Author: Dev AT
 
-Youtube: https://www.youtube.com/channel/UCGRDayozk2qch3vw-qAtQng?view_as=subscriber
+Youtube Tutorial: https://youtu.be/ALKt3WQ2LVY
 
 Donate for us: 
 
